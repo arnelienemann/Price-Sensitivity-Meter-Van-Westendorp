@@ -1,5 +1,5 @@
 # Price-Sensitivity-Meter-Van-Westendorp
-Report Automation for Pricing Research Projects. Enter your raw data from quant survey (see data.xls) and get acceptable price range, price acceptance and point of max. revenue.
+Report Automation for pricing research projects. Simply drag & drop your raw data from quant survey (see data.xls) and get acceptable price range, price elastacity and point of max. revenue.
 
 Raw data:
 <br>
