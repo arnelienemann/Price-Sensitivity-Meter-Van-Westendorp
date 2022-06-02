@@ -1,0 +1,9 @@
+email
+typing
+streamlit
+numpy
+pandas
+matplotlib
+functools
+pptx
+
