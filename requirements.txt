@@ -2,6 +2,5 @@ streamlit
 numpy
 pandas
 matplotlib
-functools
 pptx
 
