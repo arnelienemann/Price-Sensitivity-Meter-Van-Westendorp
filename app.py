@@ -100,7 +100,7 @@ if uploaded_file is not None:
 
 if st.button('Create ppt'):
 
-    file_path = "template - unbranded.pptx"
+    file_path = "template.pptx"
     prs = Presentation(file_path)
 
     title_slide_layout = prs.slide_layouts[0]
